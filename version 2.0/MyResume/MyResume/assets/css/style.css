@@ -1173,7 +1173,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
   background: #f7f8f9;
-  color: #45505b;
+  color: #3f4852;
   font-size: 14px;
   text-align: center;
   padding: 30px 0;
@@ -1215,7 +1215,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #0678e3;
+  background: #62a5e3;
   color: #fff;
   text-decoration: none;
 }
